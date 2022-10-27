@@ -82,7 +82,7 @@ static void Divisao()
 
 static void Multiplicacao()
 {
-    Console.Clear();
+    Console.Clear();;
 
     Console.WriteLine("Primeiro valor:");
     float v1 = float.Parse(Console.ReadLine());
