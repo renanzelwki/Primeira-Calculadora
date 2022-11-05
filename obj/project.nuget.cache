@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V19qcQQkD8deYB0IvMOyS5L/tbXFacBCnUahl40QN0L6sDqM7/wl64xaZqgcvLmcrE8zF19wTWfCYRY+Km19EQ==",
+  "dgSpecHash": "aTsY38PGlC8QBFSxW/KYSfWX4/Zr0z2ZDFfUXRTC8Dt2N26mN0nc2s9HPGncmidbyxoVx8wznpvwOVXncbHZuw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Renan\\Desktop\\Projetos\\Calculadora\\Calculadora.csproj",
+  "projectFilePath": "C:\\dev\\projects\\Primeira-Calculadora\\Calculadora.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
